@@ -56,7 +56,7 @@ body{
 .header {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center
 }
 
 .header{
@@ -229,3 +229,5 @@ footer{
     height: 1px;
     background-color: #030303;
 }
+
+
