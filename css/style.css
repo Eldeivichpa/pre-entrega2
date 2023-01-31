@@ -59,11 +59,12 @@ body{
     align-items: center;
 }
 
-.header {
-    height:  60vh !important;
-    background: url(recursos/img/fondo1.jpg) no-repeat center;
+.header{
+    height: 60vh !important;
+    background: url();
     background-size: cover;
 }
+
 
 .titulo {
     margin-bottom: 40px;
