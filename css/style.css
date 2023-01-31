@@ -60,11 +60,10 @@ body{
 }
 
 .header{
-    height: 60vh !important;
-    background: url(recursos/img/fondo1.jpg) no-repeat center;
+    height:  60vh !important;
+    background: url() no-repeat center;
     background-size: cover;
 }
-
 
 .titulo {
     margin-bottom: 40px;
