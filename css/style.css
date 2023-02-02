@@ -21,10 +21,6 @@ body{
    padding: 10px;
 }
 
-.navbar{
-    display: flex;
-    margin-right: 10px;
-}
 
 .logo{
     display: flex;
@@ -41,6 +37,11 @@ body{
     color: rgb(124, 121, 121);
     text-transform: uppercase;
     font-size: 20px;
+}
+
+.navbar{
+    display: flex;
+    margin-right: 10px;
 }
 
 .navbar a{
