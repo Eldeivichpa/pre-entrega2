@@ -54,15 +54,12 @@ body{
 }
 
 .header {
+    background: url("../recursos/img/fondo1.jpg") no-repeat center;
+    background-size: cover;
+    height: 60vh !important;
     display: flex;
     justify-content: center;
     align-items: center
-}
-
-.header{
-    height:  60vh !important;
-    background: url("../recursos/img/fondo1.jpg") no-repeat center;
-    background-size: cover;
 }
 
 .titulo {
