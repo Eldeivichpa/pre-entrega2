@@ -61,7 +61,7 @@ body{
 
 .header{
     height:  60vh !important;
-    background: url("/recursos/img/fondo1.jpg") no-repeat center;
+    background: url("../recursos/img/fondo1.jpg") no-repeat center;
     background-size: cover;
 }
 
