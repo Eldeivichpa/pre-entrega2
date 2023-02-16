@@ -742,3 +742,66 @@ button:hover{
     background-size: cover;
     background-attachment: fixed;
 }
+
+/* seccion 4 - productos */
+
+.titulo-productos{
+    margin-bottom: 40px;
+    font-size: 60px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: rgb(190, 188, 188);
+}
+
+.subtitulo-armada{
+    margin-right: 1600px;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: rgb(155, 154, 154);
+}
+
+.bax{
+    background-color: #1f1d1d;
+}
+
+.flex-corl{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.flex-corl a img{
+    display: flex;
+    height: 600px;
+    padding: 100px;
+    margin-top: auto;
+}
+
+.flex-rune{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.flex-rune a img{
+    display: flex;
+    height: 350px;
+    padding: 100px;
+    margin-top: 100px;
+}
+
+.compo{
+    margin-top: 200px;
+    margin-right: 1600px;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: rgb(155, 154, 154);
+}

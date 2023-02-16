@@ -231,3 +231,15 @@ footer{
     height: 1px;
     background-color: #030303;
 }
+
+/* seccion 4 */
+
+/* productos */
+
+.titulo-productos{
+    margin-bottom: 40px;
+    font-size: 60px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: rgb(190, 188, 188);
+}
